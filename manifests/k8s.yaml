@@ -28,7 +28,7 @@ metadata:
   name: {model_name}-service
 spec:
   ports:
-  - port: 80
+  - port: 8080
     targetPort: 8080
   selector:
     app: {model_name}-server

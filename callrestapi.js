@@ -1,4 +1,4 @@
-var url = "/https://restapi-teams-service-codigyx.cloud.okteto.net/api/teams";
+var url = "https://restapi-teams-service-codigyx.cloud.okteto.net/api/teams";
 
 function postTeams() {
 
